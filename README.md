@@ -1,5 +1,6 @@
 # Surface Tension
-[![GitHub all releases](https://img.shields.io/github/downloads/Electro7777/Surface-Tension/total.svg)]()
+
+Plugin updated by Electro7777 to be compatible with EXILED 5.2.1
 
 Currently being maintained by Heisenberg3666, originally made by Holmium67.
 
