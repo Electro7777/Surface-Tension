@@ -1,5 +1,5 @@
 # Surface Tension
-[![GitHub all releases](https://img.shields.io/github/downloads/Electro7777/Surface-Tension/total)]()
+[![GitHub all releases](https://img.shields.io/github/downloads/Electro7777/Surface-Tension/total.svg)]()
 
 Currently being maintained by Heisenberg3666, originally made by Holmium67.
 
