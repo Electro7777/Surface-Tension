@@ -12,9 +12,9 @@ namespace Surface_Tension
         private EventHandler events;
 
         public override string Name => "SurfaceTension";
-        public override string Author => "Holmium67, updated by Heisenberg3666";
-        public override Version Version => new Version(2, 2, 0, 0);
-        public override Version RequiredExiledVersion => new Version(5, 1, 3);
+        public override string Author => "Holmium67, Heisenberg3666, updated by Electro7777";
+        public override Version Version => new Version(3, 0, 0, 0);
+        public override Version RequiredExiledVersion => new Version(5, 2, 1);
 
         public override void OnEnabled()
         {
