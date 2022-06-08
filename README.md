@@ -2,7 +2,7 @@
 
 Plugin updated by Electro7777 to be compatible with EXILED 5.2.1
 
-Currently being maintained by Heisenberg3666, originally made by Holmium67.
+Originally made by Holmium67.
 
 ## Description
 On detonation of the Alpha Warhead, radiation is emitted from the facility and will slowly kill the remaining people. All the times and announcements are configurable.
